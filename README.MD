@@ -8,8 +8,8 @@ This quickstart shows how to deploy a Node.js app to Azure Web Apps. You'll get 
 
 
 
-Server(Folder)			            	 package.json
-public(Folder)  						 package-lock.json
+index.js			            	 package.json
+process.json  						 package-lock.json
 install-azure-cli.sh 		 			
 .env               
 
